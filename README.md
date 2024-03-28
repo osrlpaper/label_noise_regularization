@@ -1,4 +1,3 @@
-# label_noise_regularization
 This repository is for our paper entitled "On the impact of several regularization techniques on label noise robustness of self-supervised speaker verification systems" currently under review.
 
 Code of our experiments and trained models will be available upon acceptance of the paper.
