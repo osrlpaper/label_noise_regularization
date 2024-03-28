@@ -12,6 +12,7 @@ For clustering, we adopt the same CAMSAT clustering approach used in [19] to gen
 # The clustering evaluation metrics
 Following the commonly used evaluation metrics for clustering, we assess the quality of the generated pseudo-labels using the following three supervised clustering metrics: ![](/Clustering_metrics.png)
 
+# The clustering performance of our employed pseudo-labels
 Table 3 shows the clustering performance of our employed CAMSAT clustering-based pseudo-labels using CAMSAT. ![](/clustering_performance_pseudo_labels.png)
 
 [19] A. Fathan and J. Alam, “Camsat: Augmentation mix and self-augmented training clustering for self-supervised speaker recognition,” in IEEE Automatic Speech Recognition and Understanding (ASRU) Workshop, 2023.
